@@ -1,1 +1,30 @@
 /*Folhas de estilos do site */
+ {
+    box-sizing: border-box;
+    outline: none;
+}
+
+html,
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /*
+    Define a unidade de medida 'rem' que equivale ao espaço 
+    ocupado pela letra 'M' na tela.
+    1rem = 16px, 0.5rem = 8px 
+    */
+    position: relative;
+    font-size: 16px;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+   
+    
+}
+
+#wrap {
+    position: relative;
+    height: 100%;
+    width: 100%;
+    max-width: 1080px;
+    margin: auto;
+}
