@@ -1,10 +1,6 @@
-<<<<<<< HEAD
 /* Folhas de Estilos do Site */
 
 /* Estilos de posicionamento geral. */
-=======
-/*Folhas de estilos do site */
->>>>>>> 089fe9af0081197e9bdff9d4f1cb6116fc77d54a
 
 * {
     box-sizing: border-box;
@@ -31,21 +27,14 @@ body {
 }
 
 #wrap {
-<<<<<<< HEAD
     position: relative;
-=======
-    position: relative;    
->>>>>>> 089fe9af0081197e9bdff9d4f1cb6116fc77d54a
     height: 100%;
     width: 100%;
     max-width: 1080px;
     /* min-width: 300px; */
     margin: auto;
-<<<<<<< HEAD
     display: flex;
     flex-direction: column;
-=======
->>>>>>> 089fe9af0081197e9bdff9d4f1cb6116fc77d54a
 }
 
 /* Cabeçalho */
@@ -54,11 +43,7 @@ header {
     background-color: rgb(255, 255, 255);
     display: flex;
     align-items: center;
-<<<<<<< HEAD
     margin: .5rem .5rem 0 .5rem;
-=======
-    margin: .5rem;
->>>>>>> 089fe9af0081197e9bdff9d4f1cb6116fc77d54a
     border-radius: .5rem;
 }
 
@@ -74,11 +59,7 @@ header img {
 
 header h1 {
     margin: 0;
-<<<<<<< HEAD
     font-size: 2rem;
-=======
-font-size: 2rem;
->>>>>>> 089fe9af0081197e9bdff9d4f1cb6116fc77d54a
 }
 
 header small {
@@ -113,7 +94,6 @@ nav a:last-child {
 
 nav a:hover {
     background-color: white;
-<<<<<<< HEAD
     color: black;
 }
 
@@ -157,6 +137,3 @@ footer>div {
     text-align: center;
     margin: .5rem;
 }
-=======
-    color: black; }
->>>>>>> 089fe9af0081197e9bdff9d4f1cb6116fc77d54a
